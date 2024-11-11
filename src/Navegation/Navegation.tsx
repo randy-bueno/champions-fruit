@@ -5,7 +5,6 @@ import { Search } from "../pages/Search";
 import { CategoryDetailts } from "../pages/CategoryDetailts";
 import { FoodDetailts } from "../pages/FoodDetailts";
 import { Contacts } from "../pages/Contacts";
-
 export const Navegation = () => {
   return (
     <>
